@@ -15,6 +15,7 @@ https://fastly.jsdelivr.net/gh/joyanhui/cdn@main/README.md
 # 境内cdn
 ```
 http://cdn.leiyanhui.com/gh/joyanhui/cdn@main/README.md
+https://cdn.leiyanhui.com/gh/joyanhui/cdn@main/README.md
 ```
 全部文件缓存30天，禁用非 /gh/joyanhui/cdn@main 路径
 ## 回源规则
