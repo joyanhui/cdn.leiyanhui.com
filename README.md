@@ -16,18 +16,16 @@ https://fastly.jsdelivr.net/gh/joyanhui/cdn@main/README.md
 https://raw.githubusercontent.com/joyanhui/cdn/main/README.md
 https://ghproxy.net/https://raw.githubusercontent.com/joyanhui/cdn/main/README.md
 ```
-## cf
+##  cf work
 ```
-https://joyanhui-github-cdn.kkdysite.workers.dev/README.md
 https://gh.cf-cdn.eu.org/README.md
 ```
 
 # 境内cdn
+依赖 用git的page实现吧
 ```
-https://cdn.leiyanhui.com/README.md
-
-http://cdn.leiyanhui.com/gh/joyanhui/cdn@main/README.md
-https://cdn.leiyanhui.com/gh/joyanhui/cdn@main/README.md
+gh-cdn.leiyanhui.com/README.md
+https://jsd.leiyanhuic.com/gh/joyanhui/cdn@main/README.md
 ```
 ## 环境配置
 ### 域名解析
