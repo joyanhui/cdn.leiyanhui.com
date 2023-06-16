@@ -5,6 +5,6 @@
 
 境内 走  境内cdn
 
-境外 暂时走 github.io
+境外 暂时走 https://cdn.jsdelivr.net/gh/joyanhui/cdn@main/README.md
 
 以后再 研究一下 多域名走 
