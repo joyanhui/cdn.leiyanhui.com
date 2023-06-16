@@ -14,5 +14,5 @@ https://fastly.jsdelivr.net/gh/joyanhui/cdn@main/README.md
 
 # 境内
 ```
-https://cdn.leiyanhui.com/gh/joyanhui/cdn@main/README.md
+http://cdn.leiyanhui.com/gh/joyanhui/cdn@main/README.md
 ```
