@@ -1,5 +1,4 @@
-# cdn
-小文件js img js json等cdn加速
+# 小文件js img js json等cdn加速
 
 只放小文件
 
@@ -8,13 +7,13 @@
 # 境外 
 ## jsdelivr
 ```
-https://cdn.jsdelivr.net/gh/joyanhui/cdn@main/README.md
-https://fastly.jsdelivr.net/gh/joyanhui/cdn@main/README.md
+https://cdn.jsdelivr.net/gh/joyanhui/cdn.leiyanhui.com@main/README.md
+https://fastly.jsdelivr.net/gh/joyanhui/cdn.leiyanhui.com@main/README.md
 ```
 ## github
 ```
-https://raw.githubusercontent.com/joyanhui/cdn/main/README.md
-https://ghproxy.net/https://raw.githubusercontent.com/joyanhui/cdn/main/README.md
+https://raw.githubusercontent.com/joyanhui/cdn.leiyanhui.com/main/README.md
+https://ghproxy.net/https://raw.githubusercontent.com/joyanhui/cdn.leiyanhui.com/main/README.md
 ```
 ##  cf work
 ```
