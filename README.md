@@ -3,8 +3,16 @@
 
 只放小文件
 
-境内 走  境内cdn
 
-境外 暂时走 https://cdn.jsdelivr.net/gh/joyanhui/cdn@main/README.md
 
-以后再 研究一下 多域名走 
+# 境外 
+```
+https://cdn.jsdelivr.net/gh/joyanhui/cdn@main/README.md
+https://fastly.jsdelivr.net/gh/joyanhui/cdn@main/README.md
+```
+
+
+# 境内
+```
+https://cdn.leiyanhui.com/gh/joyanhui/cdn@main/README.md
+```
